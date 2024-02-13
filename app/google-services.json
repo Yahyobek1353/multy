@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "519755507524",
+    "project_id": "multy-program",
+    "storage_bucket": "multy-program.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519755507524:android:50e19c56e26b44d46f5911",
+        "android_client_info": {
+          "package_name": "com.salievyt1353.academy.multiprogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519755507524-ug1dgop3o22i12sq440ltl1dd5oodi9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salievyt1353.academy.multiprogram",
+            "certificate_hash": "3b52a91ead7f6907646959e9c6bfa0d3a6231c21"
+          }
+        },
+        {
+          "client_id": "519755507524-fkae7hlrviehj50ursi7m2doddbigqrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC40JMPHMe4gB39Af2LWA50E1iFXjacFLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519755507524-fkae7hlrviehj50ursi7m2doddbigqrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
